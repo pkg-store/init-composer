@@ -1,0 +1,19 @@
+{
+  "name": "pkg-store/init",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "",
+  "keywords": ["pkg-store", "russian"],
+  "support": {
+    "source": "https://github.com/pkg-store/init-composer",
+    "issues": "https://github.com/pkg-store/init-composer/issues",
+    "docs": "https://github.com/pkg-store/init-composer/wiki",
+    "forum": "https://github.com/pkg-store/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
